@@ -8,6 +8,7 @@ yum install nodejs -y
 yum install golang -y
 yum install python3 -y
 yum install npm -y
+yum install git -y
 pip3 install requests colorama
 
 npm i axios
@@ -26,5 +27,6 @@ npm i puppeteer
 npm i puppeteer-extra 
 npm i puppeteer-extra-plugin-stealth
 npm i async
+git clone https://github.com/fahrelop/ker
 cd ham
 python3 main.py
